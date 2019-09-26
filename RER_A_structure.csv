@@ -1,0 +1,46 @@
+Boissy Saint Leger,,Sucy-Bonneuil
+Sucy-Bonneuil,Boissy Saint Leger,La Varenne-Chennevieres
+La Varenne-Chennevieres,Sucy-Bonneuil,Champigny
+Champigny,La Varenne-Chennevieres,Le Parc de Saint Maur
+Le Parc de Saint Maur,Champigny,Saint Maur-Creteil
+Saint Maur-Creteil,Le Parc de Saint Maur,Joinville le Pont
+Joinville le Pont,Saint Maur-Creteil,Nogent Sur Marne
+Nogent Sur Marne,Joinville le Pont,Fontenay Sous Bois
+Fontenay Sous Bois,Nogent Sur Marne,Vincennes
+Vincennes,Fontenay Sous Bois,Nation
+Nation,Vincennes,Gare de Lyon
+Gare de Lyon,Nation,Chatelet-Les-Halles
+Chatelet-Les-Halles,Gare de Lyon,Auber
+Auber,Chatelet-Les-Halles,Charles de Gaulle-Etoile
+Charles de Gaulle-Etoile,Auber,Grande Arche la Defense
+Grande Arche la Defense,Charles de Gaulle-Etoile,Nanterre Prefecture
+Nanterre Prefecture,Grande Arche la Defense,Houilles
+Houilles,Nanterre Prefecture,Sartrouville
+Sartrouville,Houilles,Maisons-Laffitte
+Maisons-Laffitte,Sartrouville,Acheres Ville
+Acheres Ville,Maisons-Laffitte,Conflans-Fin d'Oise
+Conflans-Fin d'Oise,Acheres Ville,Neuville Universite
+Neuville Universite,Conflans-Fin d'Oise,Cergy-Prefecture
+Cergy-Prefecture,Neuville Universite,Cergy-St-Christophe
+Cergy-St-Christophe,Cergy-Prefecture,Cergy-Le Haut
+Cergy-Le Haut,Cergy-St-Christophe,
+Acheres-Grand-Cormier,Maisons-Laffitte,Poissy
+Poissy,Acheres-Grand-Cormier,
+Nanterre Universite,Nanterre Prefecture,Nanterre Ville
+Nanterre Ville,Nanterre Universite,Rueil Malmaison
+Rueil Malmaison,Nanterre Ville,Chatou-Croissy
+Chatou-Croissy,Rueil Malmaison,Le Vesinet Centre
+Le Vesinet Centre,Chatou-Croissy,Le Vesinet le Pecq
+Le Vesinet le Pecq,Le Vesinet Centre,St Germain en Laye
+St Germain en Laye,Le Vesinet le Pecq,
+Marne la Vallee-Chessy,,Val d'Europe-Serris
+Val d'Europe-Serris,Marne la Vallee-Chessy,Bussy St-Georges
+Bussy St-Georges,Val d'Europe-Serris,Torcy
+Torcy,Bussy St-Georges,Lognes
+Lognes,Torcy,Noisiel
+Noisiel,Lognes,Noisy-Champs
+Noisy-Champs,Noisiel,Noisy le Grand-Mont d'Est
+Noisy le Grand-Mont d'Est,Noisy-Champs,Bry Sur Marne
+Bry Sur Marne,Noisy le Grand-Mont d'Est,Neuilly-Plaisance
+Neuilly-Plaisance,Bry Sur Marne,Val de Fontenay
+Val de Fontenay,Neuilly-Plaisance,Vincennes

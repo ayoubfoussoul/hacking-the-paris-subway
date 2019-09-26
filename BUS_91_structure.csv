@@ -1,0 +1,33 @@
+Place de Catalogne,,
+Valenciennes,Gare de l'Est,Gare du Nord
+Gare de l'Est,Magenta-Saint-Martin,Valenciennes
+Magenta-Saint-Martin,Jacques Bonsergent,
+Jacques Bonsergent,Republique-Magenta,Strasbourg-Magenta
+Republique-Magenta,Republique,
+Republique,Jean-Pierre Timbaud,Jacques Bonsergent
+Jean-Pierre Timbaud,Oberkampf-Filles du Calvaire,Republique
+Oberkampf-Filles du Calvaire,Saint-Claude,Jean-Pierre Timbaud
+Saint-Claude,Saint-Gilles-Chemin Vert,Oberkampf-Filles du Calvaire
+Saint-Gilles-Chemin Vert,Bastille-Beaumarchais,Saint-Claude
+Bastille-Beaumarchais,Bastille,Saint-Gilles-Chemin Vert
+Bastille,Lyon-Ledru Rollin,Bastille-Beaumarchais
+Lyon-Ledru Rollin,Gare de Lyon-Diderot,Bastille
+Gare de Lyon-Diderot,Quai de la Rapee,Lyon-Ledru Rollin
+Quai de la Rapee,Gare d'Austerlitz,Gare de Lyon-Diderot
+Gare d'Austerlitz,Saint-Marcel-La Pitie,Quai de la Rapee
+Saint-Marcel-La Pitie,Saint-Marcel-Jeanne d'Arc,Gare d'Austerlitz
+Saint-Marcel-Jeanne d'Arc,Les Gobelins,Saint-Marcel-La Pitie
+Les Gobelins,Port Royal-Berthollet,Saint-Marcel-Jeanne d'Arc
+Port Royal-Berthollet,Port Royal-Saint Jacques,Les Gobelins
+Port Royal-Saint Jacques,Observatoire-Port Royal,Port Royal-Berthollet
+Observatoire-Port Royal,Campagne Premiere,Port Royal-Saint Jacques
+Campagne Premiere,Vavin,Observatoire-Port Royal
+Vavin,Montparnasse-Cinemas,Campagne Premiere
+Montparnasse-Cinemas,Montparnasse-Rue du Depart,
+Montparnasse-Rue du Depart,Gare Montparnasse,
+Gare Montparnasse,Place de Catalogne,Montparnasse
+Gare du Nord,Valenciennes,
+Montparnasse,,Vavin
+Montparnasse 2-Gare Tgv,,Armorique-Musee Postal
+Strasbourg-Magenta,,Gare de l'Est
+Armorique-Musee Postal,,Gare Montparnasse
